@@ -1,0 +1,8 @@
+{
+  "name": "Campus360 - Silver Oak University",
+  "description": "Integrated Digital Hub for Campus Services and Academic Resources at Silver Oak University. Smart Campus portal supporting attendance, library resources, campus news, and grievance redressal under Viksit Bharat @ 2047.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
